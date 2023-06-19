@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tara Stekel
 ===================================================================================================================================
 
-Math and self taught programming enthusiast
+Math and programming enthusiast
 
 * 🌍  I'm based in Toronto. ON
 * 🖥️  See my cloud resume at [www.tarastekel.com](http://www.tarastekel.com)
